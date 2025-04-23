@@ -68,8 +68,4 @@ Este programa utiliza un `ArrayList` para simular una lista de compras dinámica
 
 ---
 
-## 🚀 Cómo ejecutar
 
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
